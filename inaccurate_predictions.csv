@@ -1,0 +1,4 @@
+essay_id,Predicted,Actual,Difference,Abs_Difference
+000d118,1,3,-2,2
+000fe60,2,3,-1,1
+001ab80,3,4,-1,1
